@@ -1,5 +1,5 @@
 ###############################################################################
-# $Id: RESIDENTStk.pm 19547 2019-06-04 14:26:00Z loredo $
+# $Id$
 package main;
 use strict;
 use warnings;
